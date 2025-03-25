@@ -1,0 +1,22 @@
+git init -> Intialized empty git repository
+
+git commit -m "first commit" -> used to save the changes to local repository
+
+git add . -> used to add changes in the current directory to the staging 
+
+git status -> used to display state of the working directory
+
+git merge branchname-> used to merge diff branches into single branch
+
+git push -> used to push content from local to github
+
+git pull -> used to fetch new commits and merge them into local
+
+git clone -b master https://github.com/Nayanan02/ReactJS.git
+
+git branch -> used to create,rename or delete the branch
+
+git checkout -> switch to branches
+
+
+
